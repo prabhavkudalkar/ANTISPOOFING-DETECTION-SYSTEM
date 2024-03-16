@@ -1,0 +1,12 @@
+Collecting data from pre-trained datasets and normalizing.
+➢
+Design and develop a deep neural network model for behavioural analysis, combining facial features and movement patterns.
+➢
+To ensure smooth implementation and compatibility, the project will require integrating the proposed system with already-existing facial recognition frameworks.
+➢
+The system being created will be tested to see if it can perform real-time analysis, which will enable quick identification and prevention of possible spoofing attempts.
+➢ To develop an efficient and accurate computer vision application for object detection or image classification, leveraging transfer learning with a MobileNetV2 model and a CNN architecture.
+➢
+To evaluate the effectiveness of the generated solution, it will also incorporate thorough performance evaluation through the examination of several metrics, such as accuracy, precision, recall, and F1 score.
+➢
+It will also involve producing thorough and detailed documentation for the system's implementation, upkeep, and customization.
